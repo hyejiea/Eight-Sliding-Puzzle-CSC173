@@ -7,7 +7,7 @@
 # How to Run
 - Once requirements are met, simply run python main.py
 
-- Click 'solve' button to automatically show the solution solved by the AI agent, 'reset' button to reset the board, 'shuffle' button to shuffle the board, and 'dropdown' button to change the search algorithm used.
+- Click 'solve' button to automatically show the solution solved by the AI agent, 'shuffle' button to shuffle the board, and 'dropdown' button to change the search algorithm used.
 
 # Reference 
 - https://www.youtube.com/watch?v=DVNxN7Imr2s&t=359s
