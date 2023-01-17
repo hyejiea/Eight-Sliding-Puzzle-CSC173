@@ -1,5 +1,3 @@
-# csc-173
-
 # 8 Sliding Puzzle
 - An implementation of the board game 8-Puzzle using Python Pygame
 - The goal of this project was to create the board game of 8-puzzle using artificial intelligence (AI). The board is solved using Breadth-first Search (BFS) and A* search algorithm with Manhattan Distance as part of the heuristic function.
