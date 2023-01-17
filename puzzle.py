@@ -174,7 +174,7 @@ def swapTiles(mousePosition):
 
 randomStateButtonRect = ButtonRect(1)
 randomStateButton = pygame_gui.elements.UIButton(
-    relative_rect=randomStateButtonRect.Rect, text="Random Start", manager=manager
+    relative_rect=randomStateButtonRect.Rect, text="Shuffle", manager=manager
 )
 
 
